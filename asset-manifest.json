@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/AIQ_prod/static/css/main.947bef6a.css",
+    "main.js": "/AIQ_prod/static/js/main.626c719c.js",
+    "static/media/bg1.jpg": "/AIQ_prod/static/media/bg1.2beb3e062b3e12c98189.jpg",
+    "static/media/ComingSoon_Image.jpg": "/AIQ_prod/static/media/ComingSoon_Image.95e6a2638ff7554c4a3a.jpg",
+    "static/media/GenAI_4_Image.jpg": "/AIQ_prod/static/media/GenAI_4_Image.93cfbbc6b41a4e5d8320.jpg",
+    "static/media/MachineLearning_Image.jpg": "/AIQ_prod/static/media/MachineLearning_Image.b6b685948115d0b1200e.jpg",
+    "static/media/GenAI_2_Image.jpg": "/AIQ_prod/static/media/GenAI_2_Image.188c84220f6ee3c7ff76.jpg",
+    "static/media/DeepLearning_4_Image.jpg": "/AIQ_prod/static/media/DeepLearning_4_Image.52b20e6bab16917d2480.jpg",
+    "static/media/headingBg2.jpg": "/AIQ_prod/static/media/headingBg2.9058b16cd31be78f48ad.jpg",
+    "static/media/HomePage_Image.jpg": "/AIQ_prod/static/media/HomePage_Image.e4eb6bc287eb175fb2ff.jpg",
+    "static/media/GenAI_3_Image.jpg": "/AIQ_prod/static/media/GenAI_3_Image.f444e85dd932809ed4a7.jpg",
+    "static/media/DeepLearning_2_Image.jpg": "/AIQ_prod/static/media/DeepLearning_2_Image.ab40f981cd6e4de035fe.jpg",
+    "static/media/DeepLearning_3_Image.jpg": "/AIQ_prod/static/media/DeepLearning_3_Image.df54626fba1a39366eee.jpg",
+    "static/media/GenAI_1_Image.jpg": "/AIQ_prod/static/media/GenAI_1_Image.9c71df418dd91c1b2bf8.jpg",
+    "static/media/DeepLearning_1_Image.jpg": "/AIQ_prod/static/media/DeepLearning_1_Image.4ebded0adc02425907e3.jpg",
+    "static/media/GenAI_Image.jpg": "/AIQ_prod/static/media/GenAI_Image.a7c0a508b2b64172e652.jpg",
+    "static/media/CoreConcepts_Image.jpg": "/AIQ_prod/static/media/CoreConcepts_Image.573dd3427e1be3745fba.jpg",
+    "static/media/DeepLearning_Image.jpeg": "/AIQ_prod/static/media/DeepLearning_Image.b503fcd2c3a6be8648dd.jpeg",
+    "static/media/Header_Image.png": "/AIQ_prod/static/media/Header_Image.82c0a17e93e8ea5935b1.png",
+    "static/media/AiQuestLogo.jpg": "/AIQ_prod/static/media/AiQuestLogo.c9e39c94df57fdd1eabb.jpg",
+    "index.html": "/AIQ_prod/index.html",
+    "main.947bef6a.css.map": "/AIQ_prod/static/css/main.947bef6a.css.map",
+    "main.626c719c.js.map": "/AIQ_prod/static/js/main.626c719c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947bef6a.css",
+    "static/js/main.626c719c.js"
+  ]
+}
