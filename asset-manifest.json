@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AIQ_prod/static/css/main.947bef6a.css",
-    "main.js": "/AIQ_prod/static/js/main.626c719c.js",
+    "main.js": "/AIQ_prod/static/js/main.dc056e84.js",
     "static/media/bg1.jpg": "/AIQ_prod/static/media/bg1.2beb3e062b3e12c98189.jpg",
     "static/media/ComingSoon_Image.jpg": "/AIQ_prod/static/media/ComingSoon_Image.95e6a2638ff7554c4a3a.jpg",
     "static/media/GenAI_4_Image.jpg": "/AIQ_prod/static/media/GenAI_4_Image.93cfbbc6b41a4e5d8320.jpg",
@@ -13,19 +13,27 @@
     "static/media/GenAI_3_Image.jpg": "/AIQ_prod/static/media/GenAI_3_Image.f444e85dd932809ed4a7.jpg",
     "static/media/DeepLearning_2_Image.jpg": "/AIQ_prod/static/media/DeepLearning_2_Image.ab40f981cd6e4de035fe.jpg",
     "static/media/DeepLearning_3_Image.jpg": "/AIQ_prod/static/media/DeepLearning_3_Image.df54626fba1a39366eee.jpg",
+    "static/media/RAG_Image04.png": "/AIQ_prod/static/media/RAG_Image04.5ca622d3aad105e361df.png",
     "static/media/GenAI_1_Image.jpg": "/AIQ_prod/static/media/GenAI_1_Image.9c71df418dd91c1b2bf8.jpg",
+    "static/media/RAG_Image03.png": "/AIQ_prod/static/media/RAG_Image03.ab79475e8d5c99d24bd0.png",
     "static/media/DeepLearning_1_Image.jpg": "/AIQ_prod/static/media/DeepLearning_1_Image.4ebded0adc02425907e3.jpg",
     "static/media/GenAI_Image.jpg": "/AIQ_prod/static/media/GenAI_Image.a7c0a508b2b64172e652.jpg",
+    "static/media/RAG_Image07.png": "/AIQ_prod/static/media/RAG_Image07.a8bcb858db3c6dd84019.png",
+    "static/media/RAG_Image08.png": "/AIQ_prod/static/media/RAG_Image08.0e067e8c59aa44bcbe57.png",
+    "static/media/RAG_Image01.png": "/AIQ_prod/static/media/RAG_Image01.5693bbb6f8ae87caec9e.png",
+    "static/media/RAG_Image06.png": "/AIQ_prod/static/media/RAG_Image06.8560ed567887baea41f3.png",
+    "static/media/RAG_Image02.png": "/AIQ_prod/static/media/RAG_Image02.4cc49afa87f387503a80.png",
     "static/media/CoreConcepts_Image.jpg": "/AIQ_prod/static/media/CoreConcepts_Image.573dd3427e1be3745fba.jpg",
+    "static/media/RAG_Image05.png": "/AIQ_prod/static/media/RAG_Image05.73fd5f1bb8bc9657da00.png",
     "static/media/DeepLearning_Image.jpeg": "/AIQ_prod/static/media/DeepLearning_Image.b503fcd2c3a6be8648dd.jpeg",
     "static/media/Header_Image.png": "/AIQ_prod/static/media/Header_Image.82c0a17e93e8ea5935b1.png",
     "static/media/AiQuestLogo.jpg": "/AIQ_prod/static/media/AiQuestLogo.c9e39c94df57fdd1eabb.jpg",
     "index.html": "/AIQ_prod/index.html",
     "main.947bef6a.css.map": "/AIQ_prod/static/css/main.947bef6a.css.map",
-    "main.626c719c.js.map": "/AIQ_prod/static/js/main.626c719c.js.map"
+    "main.dc056e84.js.map": "/AIQ_prod/static/js/main.dc056e84.js.map"
   },
   "entrypoints": [
     "static/css/main.947bef6a.css",
-    "static/js/main.626c719c.js"
+    "static/js/main.dc056e84.js"
   ]
 }
