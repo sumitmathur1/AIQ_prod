@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AIQ_prod/static/css/main.3f6638e4.css",
-    "main.js": "/AIQ_prod/static/js/main.fdbdbaf9.js",
+    "main.js": "/AIQ_prod/static/js/main.85cc761a.js",
     "static/media/bg1.jpg": "/AIQ_prod/static/media/bg1.2beb3e062b3e12c98189.jpg",
     "static/media/ComingSoon_Image.jpg": "/AIQ_prod/static/media/ComingSoon_Image.95e6a2638ff7554c4a3a.jpg",
     "static/media/GenAI_4_Image.jpg": "/AIQ_prod/static/media/GenAI_4_Image.93cfbbc6b41a4e5d8320.jpg",
@@ -20,16 +20,17 @@
     "static/media/DeepLearning_1_Image.jpg": "/AIQ_prod/static/media/DeepLearning_1_Image.4ebded0adc02425907e3.jpg",
     "static/media/GenAI_Image.jpg": "/AIQ_prod/static/media/GenAI_Image.a7c0a508b2b64172e652.jpg",
     "static/media/RAG_Image07.png": "/AIQ_prod/static/media/RAG_Image07.a8bcb858db3c6dd84019.png",
-    "static/media/Mortgage_Factors.png": "/AIQ_prod/static/media/Mortgage_Factors.ca3da6ce011822f1c7b4.png",
     "static/media/RAG_Image08.png": "/AIQ_prod/static/media/RAG_Image08.0e067e8c59aa44bcbe57.png",
     "static/media/RAG_Image01-lg.png": "/AIQ_prod/static/media/RAG_Image01-lg.d18a3fc0bf38b7c990cf.png",
     "static/media/RAG_Image06.png": "/AIQ_prod/static/media/RAG_Image06.8560ed567887baea41f3.png",
     "static/media/RAG_Image01-md.png": "/AIQ_prod/static/media/RAG_Image01-md.b7587b5dc9dd314f244e.png",
     "static/media/RAG_Image02-lg.png": "/AIQ_prod/static/media/RAG_Image02-lg.13e2839496f3be2e08b8.png",
     "static/media/RAG_Image02-md.png": "/AIQ_prod/static/media/RAG_Image02-md.175ee90042c47e498392.png",
+    "static/media/Mr_Singh.png": "/AIQ_prod/static/media/Mr_Singh.54ac5b950a27982eebba.png",
     "static/media/RAG_Image03-md.png": "/AIQ_prod/static/media/RAG_Image03-md.fa4a8a12c96d56c10439.png",
     "static/media/CoreConcepts_Image.jpg": "/AIQ_prod/static/media/CoreConcepts_Image.573dd3427e1be3745fba.jpg",
     "static/media/RAG_Image05.png": "/AIQ_prod/static/media/RAG_Image05.73fd5f1bb8bc9657da00.png",
+    "static/media/CreditCard_Factors.png": "/AIQ_prod/static/media/CreditCard_Factors.f42ed3f2d565773fc6ab.png",
     "static/media/DeepLearning_Image.jpeg": "/AIQ_prod/static/media/DeepLearning_Image.b503fcd2c3a6be8648dd.jpeg",
     "static/media/ML_Sub_Types.png": "/AIQ_prod/static/media/ML_Sub_Types.7e3f6e5ac76b728e62e4.png",
     "static/media/Header_Image.png": "/AIQ_prod/static/media/Header_Image.82c0a17e93e8ea5935b1.png",
@@ -37,10 +38,10 @@
     "static/media/RAG_Code.zip": "/AIQ_prod/static/media/RAG_Code.47d48907e12a0fa82c85.zip",
     "index.html": "/AIQ_prod/index.html",
     "main.3f6638e4.css.map": "/AIQ_prod/static/css/main.3f6638e4.css.map",
-    "main.fdbdbaf9.js.map": "/AIQ_prod/static/js/main.fdbdbaf9.js.map"
+    "main.85cc761a.js.map": "/AIQ_prod/static/js/main.85cc761a.js.map"
   },
   "entrypoints": [
     "static/css/main.3f6638e4.css",
-    "static/js/main.fdbdbaf9.js"
+    "static/js/main.85cc761a.js"
   ]
 }
