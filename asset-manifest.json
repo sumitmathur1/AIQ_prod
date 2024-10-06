@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AIQ_prod/static/css/main.3f6638e4.css",
-    "main.js": "/AIQ_prod/static/js/main.85cc761a.js",
+    "main.js": "/AIQ_prod/static/js/main.795f1863.js",
     "static/media/bg1.jpg": "/AIQ_prod/static/media/bg1.2beb3e062b3e12c98189.jpg",
     "static/media/ComingSoon_Image.jpg": "/AIQ_prod/static/media/ComingSoon_Image.95e6a2638ff7554c4a3a.jpg",
     "static/media/GenAI_4_Image.jpg": "/AIQ_prod/static/media/GenAI_4_Image.93cfbbc6b41a4e5d8320.jpg",
@@ -36,12 +36,13 @@
     "static/media/Header_Image.png": "/AIQ_prod/static/media/Header_Image.82c0a17e93e8ea5935b1.png",
     "static/media/AiQuestLogo.jpg": "/AIQ_prod/static/media/AiQuestLogo.c9e39c94df57fdd1eabb.jpg",
     "static/media/RAG_Code.zip": "/AIQ_prod/static/media/RAG_Code.47d48907e12a0fa82c85.zip",
+    "static/media/Credit_Card_Default.zip": "/AIQ_prod/static/media/Credit_Card_Default.9f81305057f6ea6847fc.zip",
     "index.html": "/AIQ_prod/index.html",
     "main.3f6638e4.css.map": "/AIQ_prod/static/css/main.3f6638e4.css.map",
-    "main.85cc761a.js.map": "/AIQ_prod/static/js/main.85cc761a.js.map"
+    "main.795f1863.js.map": "/AIQ_prod/static/js/main.795f1863.js.map"
   },
   "entrypoints": [
     "static/css/main.3f6638e4.css",
-    "static/js/main.85cc761a.js"
+    "static/js/main.795f1863.js"
   ]
 }
